@@ -1,0 +1,16 @@
+{
+	"powers": [
+		"auragon:cosmic_energy",
+		"auragon:cosmic_vision",
+		"auragon:cosmic_strength",
+		"auragon:small_form",
+		"auragon:modify_damage",
+		"auragon:prevent_bow",
+		"auragon:prevent_blocks"
+	],
+	"icon": "minecraft:nether_star",
+	"order": 10,
+	"impact": 2,
+	"name": "Auragon",
+	"description": "Auragons once created the stars, but they were deceived and lost their powers; now the survivors strive to reignite their lost potential."
+}

@@ -1,0 +1,11 @@
+{
+	"type": "origins:attribute",
+	"name": "Cosmic Strength",
+	"description": "Your strengthened form allows you to hit things harder.",
+	"modifier": {
+		"name": "Cosmic Strength damage increase",
+		"attribute": "minecraft:generic.attack_damage",
+		"value": 4.0,
+		"operation": "addition"
+	}
+}

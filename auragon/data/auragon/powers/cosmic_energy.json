@@ -1,0 +1,12 @@
+{
+	"type": "origins:attribute",
+	"name": "Cosmic Energy",
+	"description": "Your time as a being of great power has granted you a strong form.",
+	"update_health": false,
+	"modifier": {
+		"name": "Cosmic Energy health increse",
+		"attribute": "minecraft:generic.max_health",
+		"value": 20.0,
+		"operation": "addition"
+	}
+}

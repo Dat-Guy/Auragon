@@ -1,0 +1,11 @@
+{
+	"name": "Awkward Weapons",
+	"description": "Bows are unfamiliar, and unusable in your current form.",
+	"type": "origins:prevent_item_use",
+	"item_condition": {
+		"type": "origins:ingredient",
+		"ingredient": {
+			"item": "minecraft:bow"
+		}
+	}
+}
